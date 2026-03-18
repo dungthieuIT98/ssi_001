@@ -4212,105 +4212,6 @@
               ]
             },
             {
-              "id": "a693195b-e3e6-4958-84a6-623072119c52",
-              "name": "button6",
-              "type": "Button",
-              "pageId": "6db77784-b705-4279-b4e5-e494f945b605",
-              "parent": "bd1cee2a-0add-4150-a39a-b240fecf63d9",
-              "properties": {
-                "text": {
-                  "value": "Apply"
-                },
-                "visibility": {
-                  "value": "{{true}}"
-                },
-                "disabledState": {
-                  "value": "{{false}}"
-                },
-                "loadingState": {
-                  "value": "{{false}}"
-                },
-                "tooltip": {
-                  "value": ""
-                }
-              },
-              "general": {},
-              "styles": {
-                "textColor": {
-                  "value": "#FFFFFF"
-                },
-                "borderColor": {
-                  "value": "var(--cc-primary-brand)"
-                },
-                "loaderColor": {
-                  "value": "var(--cc-surface1-surface)"
-                },
-                "borderRadius": {
-                  "value": "{{6}}"
-                },
-                "backgroundColor": {
-                  "value": "var(--cc-primary-brand)"
-                },
-                "iconColor": {
-                  "value": "var(--cc-default-icon)"
-                },
-                "direction": {
-                  "value": "left"
-                },
-                "padding": {
-                  "value": "default"
-                },
-                "boxShadow": {
-                  "value": "0px 0px 0px 0px #00000090"
-                },
-                "icon": {
-                  "value": "IconAlignBoxBottomLeft"
-                },
-                "iconVisibility": {
-                  "value": false
-                },
-                "type": {
-                  "value": "primary"
-                }
-              },
-              "generalStyles": {},
-              "displayPreferences": {
-                "showOnDesktop": {
-                  "value": "{{true}}"
-                },
-                "showOnMobile": {
-                  "value": "{{false}}"
-                }
-              },
-              "validation": {},
-              "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-17T16:03:33.674Z",
-              "layouts": [
-                {
-                  "id": "f5bca8fc-d588-4ccf-9b11-8ee5ed3cb41e",
-                  "type": "desktop",
-                  "top": 790,
-                  "left": 37,
-                  "width": 5,
-                  "height": 40,
-                  "componentId": "a693195b-e3e6-4958-84a6-623072119c52",
-                  "dimensionUnit": "count",
-                  "updatedAt": "2026-03-17T16:03:33.674Z"
-                },
-                {
-                  "id": "c58f0bc3-b6ef-476c-b081-5a690061e4ff",
-                  "type": "mobile",
-                  "top": 790,
-                  "left": 14,
-                  "width": 4,
-                  "height": 40,
-                  "componentId": "a693195b-e3e6-4958-84a6-623072119c52",
-                  "dimensionUnit": "count",
-                  "updatedAt": "2026-03-17T16:03:33.674Z"
-                }
-              ]
-            },
-            {
               "id": "2331313b-e2bf-4d4c-b4ec-48e684c2ba24",
               "name": "multiselect1",
               "type": "MultiselectV2",
@@ -6884,25 +6785,25 @@
                 }
               },
               "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-17T16:03:33.674Z",
+              "updatedAt": "2026-03-18T03:41:30.011Z",
               "layouts": [
+                {
+                  "id": "8f863358-2570-418d-9af7-911bfd82db4d",
+                  "type": "desktop",
+                  "top": 790,
+                  "left": 4,
+                  "width": 38,
+                  "height": 40,
+                  "componentId": "8b3625d2-232a-4d52-b425-7d56b8264044",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2026-03-18T03:41:23.535Z"
+                },
                 {
                   "id": "c0fb3d06-910d-4db8-a807-4a716ff1c4d7",
                   "type": "mobile",
                   "top": 800,
                   "left": 1,
                   "width": 10,
-                  "height": 40,
-                  "componentId": "8b3625d2-232a-4d52-b425-7d56b8264044",
-                  "dimensionUnit": "count",
-                  "updatedAt": "2026-03-17T16:03:33.674Z"
-                },
-                {
-                  "id": "8f863358-2570-418d-9af7-911bfd82db4d",
-                  "type": "desktop",
-                  "top": 790,
-                  "left": 4,
-                  "width": 33,
                   "height": 40,
                   "componentId": "8b3625d2-232a-4d52-b425-7d56b8264044",
                   "dimensionUnit": "count",
@@ -10753,7 +10654,7 @@
                 }
               },
               "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-17T17:20:12.851Z",
+              "updatedAt": "2026-03-18T03:05:15.752Z",
               "layouts": [
                 {
                   "id": "46b0a4ab-9cd2-48bb-9fc2-aafd46f062f2",
@@ -12653,7 +12554,7 @@
               },
               "validation": {},
               "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-18T03:03:05.192Z",
+              "updatedAt": "2026-03-18T03:05:14.108Z",
               "layouts": [
                 {
                   "id": "fb97a962-f3d0-465b-8f4b-bcc7dcbdfa62",
@@ -15833,7 +15734,7 @@
               "parent": "bd1cee2a-0add-4150-a39a-b240fecf63d9",
               "properties": {
                 "advanced": {
-                  "value": "{{false}}"
+                  "value": "{{true}}"
                 },
                 "schema": {
                   "value": "{{[\t{label: 'option1',value: 1,disable: false,visible: true,default: true},{label: 'option2',value: 2,disable: false,visible: true},{label: 'option3',value: 3,disable: false,visible: true}\t]}}"
@@ -15988,7 +15889,7 @@
                 }
               },
               "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-17T16:03:33.674Z",
+              "updatedAt": "2026-03-18T03:41:02.295Z",
               "layouts": [
                 {
                   "id": "59c74d1a-81ea-4ae9-83da-0b252ffc360d",
@@ -23475,7 +23376,7 @@
               },
               "validation": {},
               "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-18T02:47:54.436Z",
+              "updatedAt": "2026-03-18T03:04:03.671Z",
               "layouts": [
                 {
                   "id": "253c1816-7c46-43c8-b6f8-590dc1a5a2ae",
@@ -32240,6 +32141,27 @@
               "updatedAt": "2026-03-17T16:03:33.674Z"
             },
             {
+              "id": "dc0e5f37-1160-43f8-90ca-35f4e07da063",
+              "name": "onClick",
+              "index": 0,
+              "event": {
+                "modal": "bd1cee2a-0add-4150-a39a-b240fecf63d9",
+                "eventId": "onClick",
+                "message": "Hello world!",
+                "queryId": "68de2875-29c3-44de-b2af-e387c3b5a710",
+                "actionId": "run-query",
+                "alertType": "info",
+                "component": "button3",
+                "queryName": "js_upload_on_open",
+                "parameters": {}
+              },
+              "sourceId": "3a6acc8f-901a-4ef6-a9f0-24e04531944b",
+              "target": "component",
+              "appVersionId": "b7a66904-c3cd-48cc-832c-5ec17e62c6e0",
+              "createdAt": "2026-03-17T16:03:33.674Z",
+              "updatedAt": "2026-03-18T03:05:04.480Z"
+            },
+            {
               "id": "47bb09a1-2c3d-42aa-a611-a7a0a497d933",
               "name": "onClick",
               "index": 0,
@@ -32285,24 +32207,6 @@
                 "component": "button4"
               },
               "sourceId": "8f890c07-9f3a-485c-8baa-223d372f4bb5",
-              "target": "component",
-              "appVersionId": "b7a66904-c3cd-48cc-832c-5ec17e62c6e0",
-              "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-17T16:03:33.674Z"
-            },
-            {
-              "id": "dc0e5f37-1160-43f8-90ca-35f4e07da063",
-              "name": "onClick",
-              "index": 0,
-              "event": {
-                "modal": "bd1cee2a-0add-4150-a39a-b240fecf63d9",
-                "eventId": "onClick",
-                "message": "Hello world!",
-                "actionId": "show-modal",
-                "alertType": "info",
-                "component": "button3"
-              },
-              "sourceId": "3a6acc8f-901a-4ef6-a9f0-24e04531944b",
               "target": "component",
               "appVersionId": "b7a66904-c3cd-48cc-832c-5ec17e62c6e0",
               "createdAt": "2026-03-17T16:03:33.674Z",
@@ -34036,7 +33940,7 @@
               "dataSourceId": "96a16134-e2cf-4ad6-82ce-55e9c2d94232",
               "appVersionId": "b7a66904-c3cd-48cc-832c-5ec17e62c6e0",
               "createdAt": "2026-03-17T16:03:33.674Z",
-              "updatedAt": "2026-03-18T02:49:10.244Z"
+              "updatedAt": "2026-03-18T03:04:00.769Z"
             },
             {
               "id": "55b413ec-4e64-405e-bfc2-bd2d9ea6c8a0",
@@ -34343,7 +34247,7 @@
               "dataSourceId": "96a16134-e2cf-4ad6-82ce-55e9c2d94232",
               "appVersionId": "b7a66904-c3cd-48cc-832c-5ec17e62c6e0",
               "createdAt": "2026-03-17T16:24:35.920Z",
-              "updatedAt": "2026-03-18T03:03:00.824Z"
+              "updatedAt": "2026-03-18T03:04:03.879Z"
             },
             {
               "id": "4290c794-11de-4391-aff4-ec347ded4665",
@@ -34361,7 +34265,7 @@
               "dataSourceId": "96a16134-e2cf-4ad6-82ce-55e9c2d94232",
               "appVersionId": "b7a66904-c3cd-48cc-832c-5ec17e62c6e0",
               "createdAt": "2026-03-17T16:48:57.194Z",
-              "updatedAt": "2026-03-17T16:52:13.041Z"
+              "updatedAt": "2026-03-18T03:04:38.752Z"
             },
             {
               "id": "04e772b6-57dc-4754-b664-89fd6a4dc55d",
@@ -34371,15 +34275,21 @@
                 "transformationLanguage": "javascript",
                 "enableTransformation": true,
                 "transformations": {
-                  "javascript": "\n// datasets: lấy toàn bộ (unique)\nconst datasets = [...new Set(data.map(d => d.dataset))];\n\n// rows: chỉ lấy những cái đã được config (có sheet)\nconst rows = data\n  .filter(d => d.sheet && d.start_cell)\n  .map(d => ({\n    id: crypto.randomUUID(), // id cho UI\n    dataset: d.dataset,\n    sheet: d.sheet,\n    start_cell: d.start_cell\n  }));\n\nreturn {\n  datasets,\n  rows\n};",
+                  "javascript": "\n// datasets: lấy toàn bộ (unique)\nconst datasets = [...new Set(data.map(d => d.dataset))];\n\n// rows: chỉ lấy những cái đã được config (có sheet)\nconst rows = data\n  .filter(d => d.sheet && d.start_cell)\n  .map(d => ({\n    id: d.id, // id cho UI\n    dataset: d.dataset,\n    sheet: d.sheet,\n    start_cell: d.start_cell\n  }));\n\nreturn {\n  datasets,\n  rows\n};",
                   "python": "# write your code here\n# return value will be set as data and the original data will be available as rawData\n[row for row in data if row['amount'] > 1000]\n  "
                 },
-                "query": "SELECT\n    d.id,\n    d.name AS dataset,\n    ecd.sheet,\n    ecd.start_cell,\n    ecd.export_config_id\nFROM {{constants.tbl_datasets}} d\nLEFT JOIN {{constants.tbl_export_config_dataset}} ecd\n    ON d.id = ecd.dataset_id;"
+                "query": "SELECT\n    d.id,\n    d.name AS dataset,\n    ecd.sheet,\n    ecd.start_cell,\n    ecd.export_config_id\nFROM public.datasets d\nLEFT JOIN public.export_config_dataset ecd\n    ON d.id = ecd.dataset_id\n    AND ecd.export_config_id = '{{parameters.export_id}}'",
+                "parameters": [
+                  {
+                    "name": "export_id",
+                    "defaultValue": "6aca93db-1275-4255-8891-70a484c4cbe8"
+                  }
+                ]
               },
               "dataSourceId": "96a16134-e2cf-4ad6-82ce-55e9c2d94232",
               "appVersionId": "b7a66904-c3cd-48cc-832c-5ec17e62c6e0",
               "createdAt": "2026-03-17T16:55:52.827Z",
-              "updatedAt": "2026-03-17T17:21:35.365Z"
+              "updatedAt": "2026-03-18T03:39:12.719Z"
             },
             {
               "id": "68de2875-29c3-44de-b2af-e387c3b5a710",
